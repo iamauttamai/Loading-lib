@@ -1,6 +1,10 @@
 # Loading-lib
 Loading Animation Library
 
+
+https://github.com/iamauttamai/Loading-lib/assets/112051173/f9d38a38-803e-4212-b571-301e3776d737
+
+
  ### Gradle
 **Step 1** Add the JitPack repository to your build file. Add it in your build.gradle at the end of repositories.
 
