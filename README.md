@@ -2,7 +2,11 @@
 Loading Animation Library
 
 
-https://github.com/iamauttamai/Loading-lib/assets/112051173/f9d38a38-803e-4212-b571-301e3776d737
+
+
+https://github.com/iamauttamai/Loading-lib/assets/112051173/5088b6c1-f190-44ab-bb5e-785bb89bc224
+
+
 
 
  ### Gradle
