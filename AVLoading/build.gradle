@@ -50,7 +50,7 @@ afterEvaluate {
             release(MavenPublication) {
                 groupId = 'com.iamauttamai.loading'
                 artifactId = 'AVLoading'
-                version = '1.0.0'
+                version = '1.0.1'
                 artifact(bundleReleaseAar)
             }
         }
