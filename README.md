@@ -22,17 +22,17 @@ dependencies {
 
   -  In Kotlin
 ```kotlin
-        AVLoading.loadingParamsBuilder(this,
-            TypeIndicator.BallScaleMultipleIndicator, Color.parseColor("#FFFFFF"))
-        AVLoading.initializeAVLoading()
+   AVLoading.loadingParamsBuilder(this,
+       TypeIndicator.BallScaleMultipleIndicator, Color.parseColor("#FFFFFF"))
+   AVLoading.initializeAVLoading()
 
-        binding.btnStart.setOnClickListener {
-            AVLoading.startAnimLoading()
-        }
+   binding.btnStart.setOnClickListener {
+       AVLoading.startAnimLoading()
+   }
 
-        binding.btnStop.setOnClickListener {
-            AVLoading.stopAnimLoading()
-        }
+   binding.btnStop.setOnClickListener {
+       AVLoading.stopAnimLoading()
+   }
 ```
   
 
